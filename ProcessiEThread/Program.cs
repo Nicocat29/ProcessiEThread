@@ -17,6 +17,10 @@ namespace ProcessiEThread
   
                 Thread.Sleep(1000);
                 Console.WriteLine("MyThread è iniziato");
+
+
+
+
   
             });
 
